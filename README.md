@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jmh108-mcp-server-readability-python-badge.png)](https://mseep.ai/app/jmh108-mcp-server-readability-python)
+
 # MCP Server Readability Parser (Python / FastMCP)
 
 ## Credits/Reference
